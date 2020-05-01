@@ -6,7 +6,7 @@
     android:icon="@drawable/ic_person_black_24dp"
     android:id="@+id/action_profile"
     app:showAsAction="always|withText"
-        android:onClick="handleProfileClick"
+
     />
 
     <item android:title="Delete"
